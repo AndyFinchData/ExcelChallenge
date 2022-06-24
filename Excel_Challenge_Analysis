@@ -1,0 +1,25 @@
+# Kickstarting with Excel
+
+## Overview of Project
+	This project will determine specific outcomes based on assigned criteria
+### Purpose
+	The purpose of this project is to create comfortability with various PivotTables and PivotCharts to be used in my data analysis future
+## Analysis and Challenges
+	This project had its challenges but I did not struggle with most of the deliverables, the only challenge really was checking my formulas to make sure they were all correct and giving me the results I was looking for accurately. 
+### Analysis of Outcomes Based on Launch Date
+	In looking at the outcomes given based upon their launch month, May was the clear winner as being the most successful month to launch a campaign, followed by the other summer months. The least successful month to launch was December, with just under a 50% success rate. 
+
+### Analysis of Outcomes Based on Goals
+	When looking at the data, there wwere no linear relationships found among the amount of the goal and its' success rate, nor fail rate for that matter. There were no canceled play campaigns as all either were a success or failed to reach their goal. The most successful ranges were in the low end, where the under $1000 and above $1k but less than $5k ranges, at 76% and 73% respectively. The least succcessful goal amounts tended to be higher, such as the $25k-$35k range which came in at a ~75% failure rate. Lastly, there were no canceled campaigns under the Plays subcategory so the chart just shows failed vs successful.
+### Challenges and Difficulties Encountered
+	Like stated earlier, this project's difficulties widely lied in the formatting of the formulas such as Countifs to make sure the data was captured accurately. The 4100+rows were no match for Excel's prowess and ability to calculate the desired figures.
+## Results
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+May was the most successful month to launcha campaign while December turned out to be the least successful where over 1 of every 2 campaigns ended in failure to reach the goal.
+- What can you conclude about the Outcomes based on Goals?
+Generally speaking, the higher the goal amount was, the less successful the campaign was. The first two ranges, all campaigns under $5k, enjoyed a very high success rate around 75%, while also being the most populous campaign goal amounts with well over the majority of campaigns. On the other end of the spectrum, the higher goals of fundraising campaigns struggled outside of the $35k-$45k range(9 total campaigns). Campaigns with goals of over $50k fell short of 15% success as just 2/16 were successful.
+- What are some limitations of this dataset?
+One limitation to this data would be that we were just analyzing results based on the subcategory of "plays" as the graphs in both analyses change drastically switching the categories. Another limitation to this data was the fact we did not have any canceled campaigns in the "plays" subset. This led to the canceled campaigns not even appearing on the Outcomes Based on Goal chart.
+- What are some other possible tables and/or graphs that we could create?
+There is almost an unlimited numeber of other graphs we could create. A few for example would be "Number of Backers Based on Category", "Countries with the Highest Success Rate of Campaigns", or possibly "Average Donation based on Campaign Starting Month"
